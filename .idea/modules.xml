@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/ArithmeticProgression/ArithmeticProgression.iml" filepath="$PROJECT_DIR$/ArithmeticProgression/ArithmeticProgression.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ArrayException/ArrayException.iml" filepath="$PROJECT_DIR$/ArrayException/ArrayException.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Conversion/Conversion.iml" filepath="$PROJECT_DIR$/Conversion/Conversion.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DemoException/DemoException.iml" filepath="$PROJECT_DIR$/DemoException/DemoException.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Encapsulation/Encapsulation.iml" filepath="$PROJECT_DIR$/Encapsulation/Encapsulation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/FibonacciSeries/FibonacciSeries.iml" filepath="$PROJECT_DIR$/FibonacciSeries/FibonacciSeries.iml" />
+      <module fileurl="file://$PROJECT_DIR$/FiveCrossFiveMatrix/FiveCrossFiveMatrix.iml" filepath="$PROJECT_DIR$/FiveCrossFiveMatrix/FiveCrossFiveMatrix.iml" />
+      <module fileurl="file://$PROJECT_DIR$/IdeaProjects.iml" filepath="$PROJECT_DIR$/IdeaProjects.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Inheritance/Inheritance.iml" filepath="$PROJECT_DIR$/Inheritance/Inheritance.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Number Pattern/Number Pattern.iml" filepath="$PROJECT_DIR$/Number Pattern/Number Pattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/NumberPattern1/NumberPattern1.iml" filepath="$PROJECT_DIR$/NumberPattern1/NumberPattern1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PrimeNumber/PrimeNumber.iml" filepath="$PROJECT_DIR$/PrimeNumber/PrimeNumber.iml" />
+      <module fileurl="file://$PROJECT_DIR$/StringBuffer/StringBuffer.iml" filepath="$PROJECT_DIR$/StringBuffer/StringBuffer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/StrongNumber/StrongNumber.iml" filepath="$PROJECT_DIR$/StrongNumber/StrongNumber.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ThreadsExample/ThreadsExample.iml" filepath="$PROJECT_DIR$/ThreadsExample/ThreadsExample.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ThreeByThreeMatrix/ThreeByThreeMatrix.iml" filepath="$PROJECT_DIR$/ThreeByThreeMatrix/ThreeByThreeMatrix.iml" />
+    </modules>
+  </component>
+</project>

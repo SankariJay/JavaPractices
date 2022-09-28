@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/ArithmeticProgression" vcs="" />
+    <mapping directory="$PROJECT_DIR$/ArrayException" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/DemoException" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/HelloWorld" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/StrongNumber" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/ThreadsExample" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/ThreeByThreeMatrix" vcs="Git" />
+  </component>
+</project>
